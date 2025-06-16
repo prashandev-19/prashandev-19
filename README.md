@@ -64,8 +64,7 @@ I enjoy the process of creating websites and also love to deal with challenging 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prashandev-19)](https://github.com/yushi1007)
+![](https://github-readme-stats.vercel.app/api?username=prashandev-19)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashandev-19&layout=compact)](https://github.com/yushi1007)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashandev-19&layout=compact)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=prashandev-19f&repo=BhattacharyaDev19&countColor=%237B1E7A)
