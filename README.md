@@ -22,7 +22,13 @@ I enjoy the process of creating websites and also love to deal with challenging 
 ## 🌱 I'm currently learning
 
 - Javascript
-- React  
+- React
+- Node.js
+- MongoDB
+- Express.js
+- Data Structures
+- Algorithms
+  
 
 ## 💼 Technical Skills
 
@@ -36,12 +42,24 @@ I enjoy the process of creating websites and also love to deal with challenging 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Skills-Algorithms-informational?style=flat&color=0A66C2)
+![](https://img.shields.io/badge/Skills-Data%20Structures-informational?style=flat&color=0A66C2)
+
 
 
 
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&color=339933)
+![](https://img.shields.io/badge/Tools-Express-informational?style=flat&logo=express&color=000000)
+![](https://img.shields.io/badge/Tools-TailwindCSS-informational?style=flat&logo=tailwindcss&color=06B6D4)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
+
+
+
+
+
 
 
 ## 📈 GitHub Stats 
